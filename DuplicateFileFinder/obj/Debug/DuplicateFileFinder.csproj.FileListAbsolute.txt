@@ -1,0 +1,31 @@
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\bin\Debug\DuplicateFileFinder.exe.config
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\bin\Debug\DuplicateFileFinder.exe
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\bin\Debug\DuplicateFileFinder.pdb
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder.csprojResolveAssemblyReference.cache
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\MainWindow.baml
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\MainWindow.g.cs
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\App.g.cs
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder_MarkupCompile.cache
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder.g.resources
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder.Properties.Resources.resources
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder.csproj.GenerateResource.Cache
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder.exe
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder.pdb
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\bin\Debug\Ookii.Dialogs.Wpf.dll
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\bin\Debug\Ookii.Dialogs.Wpf.xml
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Development\Projects\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder_MarkupCompile.lref
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\bin\Debug\DuplicateFileFinder.exe.config
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\bin\Debug\DuplicateFileFinder.exe
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\bin\Debug\DuplicateFileFinder.pdb
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\MainWindow.g.cs
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\App.g.cs
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder_MarkupCompile.cache
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder_MarkupCompile.lref
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\MainWindow.baml
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder.g.resources
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder.Properties.Resources.resources
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder.csproj.GenerateResource.Cache
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder.exe
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder.pdb

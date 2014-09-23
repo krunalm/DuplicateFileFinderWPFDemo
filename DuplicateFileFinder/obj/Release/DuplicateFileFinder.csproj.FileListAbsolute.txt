@@ -1,0 +1,14 @@
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\bin\Release\DuplicateFileFinder.exe.config
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\bin\Release\DuplicateFileFinder.exe
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\bin\Release\DuplicateFileFinder.pdb
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\MainWindow.g.cs
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\App.g.cs
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\DuplicateFileFinder_MarkupCompile.cache
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\DuplicateFileFinder_MarkupCompile.lref
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\MainWindow.baml
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\DuplicateFileFinder.g.resources
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\DuplicateFileFinder.Properties.Resources.resources
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\DuplicateFileFinder.csproj.GenerateResource.Cache
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\DuplicateFileFinder.exe
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\DuplicateFileFinder.pdb

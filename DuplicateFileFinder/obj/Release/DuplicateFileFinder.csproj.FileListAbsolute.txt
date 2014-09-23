@@ -12,3 +12,4 @@ D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\DuplicateFil
 D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\DuplicateFileFinder.csproj.GenerateResource.Cache
 D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\DuplicateFileFinder.exe
 D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\DuplicateFileFinder.pdb
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Release\DuplicateFileFinder.csprojResolveAssemblyReference.cache

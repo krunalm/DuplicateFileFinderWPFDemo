@@ -73,8 +73,9 @@ namespace DuplicateFileFinder
                         foreach (var item in files)
                         {
                             file = Path.GetFileNameWithoutExtension(item);
-                            searchTerm = (file.Length > Helpers.GetMaxCharLimit() ? file.Substring(0, Helpers.GetMaxCharLimit()) : file) + "*.*";
-                            var searchFiles = Directory.GetFiles(this.FolderPath, searchTerm, SearchOption.AllDirectories);
+                            searchTerm = (file.Length > Helpers.GetMaxCharLimit() ? file.Substring(0, Helpers.GetMaxCharLimit()) : file);// +"*.*";
+                            //var searchFiles = Directory.GetFiles(this.FolderPath, searchTerm, SearchOption.AllDirectories);
+                            var searchFiles = files.Where(f => Path.GetFileNameWithoutExtension(f).StartsWith(searchTerm)).ToList();
 
                             if (searchFiles.Count() > 1)
                             {

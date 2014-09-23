@@ -29,3 +29,4 @@ D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileF
 D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder.csproj.GenerateResource.Cache
 D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder.exe
 D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder.pdb
+D:\Krunal Other\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\DuplicateFileFinder.csprojResolveAssemblyReference.cache
